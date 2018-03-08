@@ -1,4 +1,4 @@
-# sfs_code_bugfix
+# sfs_code_rebuild
 Rebuilt version of SFS_CODE with bug fix from R. Hernandez
 
 ## 2 new executables
